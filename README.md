@@ -1,1 +1,4 @@
-# ass-supply-chain-management
+# サプライチェーンマネジメント中間レポート
+
+---
+
