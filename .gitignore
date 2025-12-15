@@ -208,7 +208,10 @@ __marimo__/
 
 # data
 data/apparel.xlsx
+*.docx
+
 
 # Cache
 .DS_Store
 docs/~$期末課題.docx
+
